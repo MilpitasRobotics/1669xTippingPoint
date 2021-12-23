@@ -76,7 +76,7 @@ void opcontrol(void);
 #include "subsystemHeaders/drive.hpp"
 #include "subsystemHeaders/globals.hpp"
 #include "subsystemHeaders/auton.hpp"
-
+#include "subsystemHeaders/conveyor.hpp"
 //#include <iostream>
 #endif
 
